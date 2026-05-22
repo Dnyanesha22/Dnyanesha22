@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Sudke</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center"> SQL Developer | Data Analyst | Data Engineer  </h3>
 
 ---
 

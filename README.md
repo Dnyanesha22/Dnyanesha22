@@ -29,7 +29,9 @@ I am a passionate Data Engieer with experience in SQL, Python, Power BI, DBT, ET
 
 ### 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Dnyanesha22&show_icons=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dnyanesha22&show_icons=true&theme=radical" />
+</p>
 
 ---
 

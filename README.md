@@ -29,7 +29,7 @@ I am a passionate Data Engieer with experience in SQL, Python, Power BI, DBT, ET
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
----
+
 
 ### 🔗 Connect with me
 

@@ -13,17 +13,22 @@ I am a passionate Data Engieer with experience in SQL, Python, Power BI, DBT, ET
 
 ---
 
-### 🛠️ Tools
+### 🛠️ Languages and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,azure" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   
-  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-orange?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-red?style=for-the-badge&logo=databricks&logoColor=white" />
+  <!-- Data tools -->
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
-
 ---
 
 ### 🔗 Connect with me

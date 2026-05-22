@@ -16,8 +16,14 @@ I am a passionate Data Engieer with experience in SQL, Python, Power BI, DBT, ET
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mssql,azure,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,azure" />
+  
+  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-orange?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-red?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
+
 
 ---
 

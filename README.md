@@ -24,14 +24,6 @@ I am a passionate Data Engieer with experience in SQL, Python, Power BI, DBT, ET
   <img src="https://img.shields.io/badge/Databricks-red?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnyanesha22&show_icons=true&theme=radical)
-
-
 ---
 
 ### 🔗 Connect with me

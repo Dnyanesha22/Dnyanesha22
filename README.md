@@ -16,7 +16,7 @@ I am a passionate Data Engieer with experience in SQL, Python, Power BI, DBT, ET
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,azure" />
+<img src="https://skillicons.dev/icons?i=python,mssql,azure,powerbi" />
 </p>
 
 ---

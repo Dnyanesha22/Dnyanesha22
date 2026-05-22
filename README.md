@@ -29,4 +29,3 @@ I am a passionate Data Engieer with experience in SQL, Python, Power BI, DBT, ET
 ### 🔗 Connect with me
 
 - LinkedIn: https://linkedin.com/dnyaneshwar-sudke
-``

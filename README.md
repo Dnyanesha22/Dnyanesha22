@@ -66,6 +66,6 @@
 
 ### 🔗 Connect with Me
 
-- 💼 LinkedIn: [([https://www.linkedin.com/in/dnyaneshwar-sudke])]
+- 💼 LinkedIn: [https://www.linkedin.com/in/dnyaneshwar-sudke]
 
 ---

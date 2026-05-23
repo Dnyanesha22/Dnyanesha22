@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Sudke</h1>
-<h3 align="center">SQL Developer | Aspiring Data Analyst | Data Engineering Enthusiast</h3>
+<h3 align="center">Data Engineer | Data Analyst | SQL Developer</h3>
 
 ---
 
-🚀 I am a passionate data professional with 3+ years of experience in SQL, currently transitioning into Data Analytics and Data Engineering.  
-I enjoy transforming raw data into meaningful insights and building scalable data solutions.
+🚀 I am a Data Engineer and Data Analyst with 4+ years of experience in SQL and data-driven solutions. I specialize in building data pipelines, designing data models, and delivering actionable insights for business decision-making.
 
 ---
 

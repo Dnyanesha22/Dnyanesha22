@@ -1,36 +1,72 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Sudke</h1>
-<h3 align="center"> SQL Developer | Data Analyst | Data Engineer  </h3>
+<h3 align="center">SQL Developer | Aspiring Data Analyst | Data Engineering Enthusiast</h3>
 
 ---
 
-I am a passionate Data Engineer with over 3 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
+🚀 I am a passionate data professional with 3+ years of experience in SQL, currently transitioning into Data Analytics and Data Engineering.  
+I enjoy transforming raw data into meaningful insights and building scalable data solutions.
 
 ---
 
-- 🔭 Working as SQL Developer  
-- 🌱 Learning Data Engineering & Cloud  
-- 💬 Ask me about SQL, Power BI, Python, DBT  
+### 🔥 About Me
+
+- 💼 Working as **SQL Developer**
+- 🌱 Currently learning **Data Engineering (ADF, Databricks, DBT)**
+- 📊 Skilled in **SQL, Power BI, Python, Excel**
+- 🎯 Goal: Become a **Senior Data Analyst / Data Engineer**
+- 💬 Ask me about **SQL, Data Modeling, ETL**
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  
-  <!-- Data tools -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
+---
 
-### 🔗 Connect with me
+### 📌 Featured Projects
 
-- LinkedIn: https://linkedin.com/dnyaneshwar-sudke
+#### 🏗️ SQL Data Warehouse Project
+- Built end-to-end **data warehouse using SQL Server**
+- Implemented **Bronze → Silver → Gold architecture**
+- Performed **data cleaning, transformation, and modeling**
+- Created analytics-ready datasets
+
+#### 📊 Power BI Dashboard Collection
+- Designed dashboards with **KPIs, trends & insights**
+- Applied **DAX measures and data modeling**
+- Focused on **business storytelling**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dnyanesha22&show_icons=true&theme=radical"/>
+</p>
+
+---
+
+### 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyanesha22&theme=radical"/>
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+- 💼 LinkedIn: [([add your link here](https://www.linkedin.com/in/dnyaneshwar-sudke))]
+
+---
